@@ -1,1 +1,1 @@
-# SMKteam
+# Evort project backend
